@@ -1,0 +1,9 @@
+{
+  "zone_id": "alpha",
+  "name": "Zone Alpha",
+  "bearing_degrees": 15,
+  "latitude": 31.8820,
+  "longitude": 32.1004,
+  "depth_range_m": [40, 120],
+  "seasonal_notes": "Primary spring run zone. Highest yield March-May."
+}
