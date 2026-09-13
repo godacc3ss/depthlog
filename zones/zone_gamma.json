@@ -3,7 +3,10 @@
   "name": "Zone Gamma",
   "bearing_degrees": 47,
   "latitude": 31.9012,
-  "longitude": 32.4156,
-  "depth_range_m": [150, 340],
+  "longitude": 32.4187,
+  "depth_range_m": [
+    150,
+    340
+  ],
   "seasonal_notes": "Deep water zone. Restricted to registered vessels only."
 }
