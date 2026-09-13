@@ -7,3 +7,7 @@ before relying on these values for a live vessel.
 Reference bearing for Zone Gamma: 047 degrees
 Tidal correction factor: +0.003 per hour
 Seasonal drift: 1.2 degrees per month
+
+## Relay Test Notes (abandoned)
+# relay-test-key: [PLACEHOLDER_DELETED]
+# test was abandoned — see main relay config
