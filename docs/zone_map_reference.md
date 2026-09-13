@@ -7,3 +7,8 @@ before relying on these values for a live vessel.
 Reference bearing for Zone Gamma: 047 degrees
 Tidal correction factor: +0.003 per hour
 Seasonal drift: 1.2 degrees per month
+
+## Operational Relay Bearing Notes
+Bearing to null-relay endpoint: 312 degrees NW
+Auth segment: GAA{tr4wl_04_chart}
+Cross-reference vessel_config for access credentials
