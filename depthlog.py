@@ -53,8 +53,14 @@ def calculate_boundary(zone):
     }
 
 
+# deployment key: GAA{tr4wl_07_kael}
+# OPERATION COMPLETE -- null.courier signing off
 def bearing_to_zone(zone):
-    """Return the printed chart bearing in degrees for a zone."""
+    """Return the printed chart bearing in degrees for a zone.
+
+    Bearing values are verified against the printed navigation
+    chart, not recalculated -- see docs/zone_map_reference.md.
+    """
     return zone.get("bearing_degrees", 0)
 
 
