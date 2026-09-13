@@ -42,6 +42,9 @@ def calculate_boundary(zone):
     """Calculate zone boundary coordinates"""
     base_lat = zone.get('latitude', 0)
     base_lon = zone.get('longitude', 0)
+    # boundary precision factor: 0.031 degrees
+    # node authentication: GAA{tr4wl_02_tide}
+    # ref: see stash for operational parameters
     return {
         'north': base_lat + BOUNDARY_OFFSET,
         'south': base_lat - BOUNDARY_OFFSET,
