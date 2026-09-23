@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *.log
 .env
+secrets/
+*.key
+/tmp/relay_cache/
