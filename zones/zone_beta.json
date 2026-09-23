@@ -1,0 +1,9 @@
+{
+  "zone_id": "beta",
+  "name": "Zone Beta",
+  "bearing_degrees": 210,
+  "latitude": 31.7460,
+  "longitude": 32.2210,
+  "depth_range_m": [80, 200],
+  "seasonal_notes": "Cold current zone. Best in autumn."
+}
